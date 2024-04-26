@@ -1,3 +1,5 @@
+//Below is very simple and easy to understand code base . If you feel like you have forget the HTTP Requests you can checkout this file where I have used GET , POST , PUT and DELETE Request . 
+//Well  this is an In memory system (Not Recomended) . Our Backend can go down due to many reasons so this is just to get insights how things really works . 
 const express = require("express")
 const app = express()
 app.use(express.json())
