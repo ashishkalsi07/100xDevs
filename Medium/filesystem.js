@@ -22,7 +22,7 @@ function removeExtraSpaces(filePath) {
     });
 }
 
-// Example usage
+
 const filePath = 'd:/DSA+Mern+Devops_Course/Javascript/Week_2/Medium/temp.txt';
-// Replace 'example.txt' with the path to your file
+
 removeExtraSpaces(filePath);
